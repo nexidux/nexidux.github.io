@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+If you're interesting in networking this is the place to be!
 
-Maybe say a some things about yourself.
+This is a free resource of information for anything networking
 
-Or maybe what you plan to blog about.
+Here you can learn with me side by side or through my past mistakes
