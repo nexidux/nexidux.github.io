@@ -1,4 +1,4 @@
-##Fundamentals
+## Fundamentals
 
 This blog is going to assume a few things
 
